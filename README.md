@@ -2,7 +2,7 @@
 <html lang="uk">
     <head>
         <meta charset="utf-8">
-        <title>Шинкаренко А.В. ІС-13</title>
+        
     </head>
     <body>
     <h2>Шинкаренко Анастасія Вадимівна</h2>
